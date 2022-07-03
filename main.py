@@ -232,7 +232,5 @@ for i in range(guess):
     b = str(b)
     print(bull, " bull ", cow, " cow")
 
+## 5 more excersises are left to be done ##
 
-
-
-        
